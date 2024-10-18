@@ -105,8 +105,8 @@
 .title {
   margin: 0 0 24px;
   max-width: 580px;
-  font-family: "Noto Serif", arial;
-  font-style: normal;
+  font-family: "Noto Serif", serif;
+  font-style: italic;
   font-weight: 400;
   font-size: 44px;
   line-height: 52px;
@@ -114,7 +114,7 @@
 }
 .recipes__subtitle {
   color: #fff;
-  font-family: "Noto Serif" arial;
+  font-family: "Noto Serif", serif;
   font-style: italic;
   font-weight: 400;
   font-size: 20px;
@@ -125,8 +125,8 @@
 }
 .recipes__videos-caption {
   color: #fff;
-  font-family: "Noto Serif" arial;
-  font-style: italix;
+  font-family: "Noto Serif", serif;
+  font-style: italic;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
