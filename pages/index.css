@@ -7,5 +7,7 @@
 @import url(../blocks/reservation.css);
 @import url(../blocks/menu.css);
 @import url(../blocks/card.css);
+@import url(../block/about.css);
+@import url(../block/footer.css);
 .footer {
 }
