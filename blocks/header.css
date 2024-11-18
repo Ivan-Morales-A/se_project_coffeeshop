@@ -36,6 +36,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   color: #3f96f3;
+  display: block;
 }
 
 .header__description {
