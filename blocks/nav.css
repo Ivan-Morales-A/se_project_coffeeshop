@@ -17,6 +17,8 @@
 .nav__logo {
   position: relative;
   left: -50px;
+  width: 105px;
+  height: 39px;
 }
 .nav__link {
   color: #000;
